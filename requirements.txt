@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+python-dotenv
+pydantic
+langgraph
+langchain
+langchain-openai
+openai
+tavily-python
+markdown
+beautifulsoup4
+fpdf2
+uharfbuzz
+dotenv
