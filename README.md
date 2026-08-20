@@ -339,6 +339,8 @@ This prevents an infinite Writer–Editor loop.
 
 The workflow should not depend on hard-coded topics, forced approvals, or test-only rejections.
 
+![Newsletter generation test](screenshots/test.png)
+
 ---
 
 ## Language Support
@@ -373,6 +375,8 @@ Arabic PDF generation uses:
 - `uharfbuzz`
 - A Unicode system font
 
+![Download and export feature](screenshots/html_print.png)
+
 ---
 
 ## Frontend Behavior
@@ -392,6 +396,8 @@ The Streamlit interface contains:
 - Export controls after completion
 
 The generated result is stored in `st.session_state`, so changing the export format does not remove the article.
+
+![General frontend interface](screenshots/frontend.png)
 
 ---
 
